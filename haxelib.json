@@ -1,0 +1,12 @@
+{
+    "name": "eventemitter2",
+    "url": "https://github.com/DenkiYagi/haxe-extern-eventemitter2",
+    "description": "Haxe extern definitions for eventemitter2",
+    "license": "Apache",
+    "version": "5.0.0",
+    "releasenote": "",
+    "classPath": "src",
+    "contributors": ["denkiyagi"],
+    "tags": ["js", "nodejs", "extern", "eventemitter2"],
+    "dependencies": {}
+}
