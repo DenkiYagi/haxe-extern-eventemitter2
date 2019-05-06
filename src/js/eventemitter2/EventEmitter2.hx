@@ -4,7 +4,7 @@ import js.Promise;
 import haxe.Constraints.Function;
 import haxe.extern.Rest;
 
-#if (nodejs && !eventemitter2-global)
+#if nodejs
 @:jsRequire("eventemitter2")
 #else
 @:native("EventEmitter2")
